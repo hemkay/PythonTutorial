@@ -52,3 +52,12 @@ t = 20
 s = 40
 # find 2t + s
 print(2 * t + s)
+
+#example 2
+h = 1000
+f = 10
+
+# find h / f
+p = h / f 
+print(p)
+print(type(p))
