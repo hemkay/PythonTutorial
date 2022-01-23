@@ -1,0 +1,15 @@
+We want to build a calculator
+features
+-add
+-substract
+-multiply
+- divide
+flow
+-you will ask the user to choose what they want to do 
+- ask them for the first number
+- ask them for the second number
+- perform the operation
+- show them the result ( the addition of x and y is w)
+- ask them if they want to do another thing
+    - if the answer is yes, repeat all those steps
+    - if the answer is no, stop the program and tell them thank you
