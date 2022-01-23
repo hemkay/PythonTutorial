@@ -57,7 +57,7 @@ print(2 * t + s)
 h = 1000
 f = 10
 
-# find h / f
+# find h / fdir
 p = h / f 
 print(p)
 print(type(p))
